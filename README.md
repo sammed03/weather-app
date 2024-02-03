@@ -15,6 +15,9 @@
         <li><b>View the real-time weather information!</b></li>
     </ol>
     
-</body>
+<h2>Access the Weather App</h2>
+    <p>To access the Weather App, simply click on the following link:</p>
+    <a href="https://sammed03.github.io/weather-app/" target="_blank">Weather App</a>
 
+</body>
 </html>
